@@ -1,1 +1,4 @@
 This is a new file adding to check the tracked files and ls-files command of git
+
+
+Adding another line to the file to check the direct commit command for the tracked file
